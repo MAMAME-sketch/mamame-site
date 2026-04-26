@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="900" height="620" rx="48" fill="#fffaf7"/>
+<circle cx="240" cy="205" r="92" fill="#ead9d1"/>
+<circle cx="575" cy="290" r="170" fill="#fff5f3" stroke="#d8b1b0" stroke-width="8"/>
+<path d="M420 400c28-116 112-174 218-150" fill="none" stroke="#7f716b" stroke-width="16" stroke-linecap="round"/>
+<circle cx="610" cy="245" r="58" fill="#fff" stroke="#9f6f7d" stroke-width="10"/>
+<path d="M596 265c18 12 40 12 58 0" fill="none" stroke="#c8949b" stroke-width="8" stroke-linecap="round"/>
+<path d="M310 430c45-94 103-134 170-126" fill="none" stroke="#c8949b" stroke-width="14" stroke-linecap="round"/>
+<text x="70" y="90" font-family="Arial" font-size="38" font-weight="800" fill="#9f6f7d">Orientação que previne</text>
+</svg>
