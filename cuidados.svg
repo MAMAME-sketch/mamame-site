@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
-<rect width="900" height="620" rx="48" fill="#fff5f3"/>
-<circle cx="450" cy="290" r="178" fill="#fff" stroke="#d8b1b0" stroke-width="8"/>
-<path d="M450 160c62 55 106 100 106 166 0 58-47 105-106 105s-106-47-106-105c0-66 44-111 106-166z" fill="#ead9d1"/>
-<path d="M392 325h116M450 267v116" stroke="#9f6f7d" stroke-width="16" stroke-linecap="round"/>
-<text x="80" y="92" font-family="Arial" font-size="38" font-weight="800" fill="#9f6f7d">Cuidado técnico e acolhedor</text>
-</svg>
